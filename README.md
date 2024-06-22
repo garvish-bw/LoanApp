@@ -3,7 +3,7 @@ A Java desktop application built using JavaSE(business logic), JavaFx(GUI), MySQ
 
 Visual Studio Code is used for building the project. Using the same to run the project could turn out to be of great help!<br/>
 
-Dependency information is included in the file pom.xml. Since it is a maven project, the user will not have to go through the hassle of downloading all the dependency jars. Eclipse will do that for us by parsing the pom.xml file and downloading all dependencies fromt the mvn repository.<br/>
+Dependency information is included in the file pom.xml. Since it is a maven project, the user will not have to go through the hassle of downloading all the dependency jars. VisualStudio Code will do that for us by parsing the pom.xml file and downloading all dependencies from the mvn repository.<br/>
 
 
 
